@@ -1,2 +1,2 @@
-test for ikke konflikt
+test for ikke konflikt 
  # hei 
