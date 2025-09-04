@@ -1,2 +1,3 @@
-test for ikke konflikt 
- # hei 
+
+library(tidyverse)
+ # hei #test for å sjekke konflikt 
