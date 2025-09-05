@@ -14,7 +14,7 @@ library(readxl)
 library(here)
 library(tidyverse)
 
-data <- read_xlsx(here("Datasett","Dag 5", "datafile.xlsx"))
+data <- read_xlsx(here("data","datafile.xlsx"))
 
 glimpse(data)
 
